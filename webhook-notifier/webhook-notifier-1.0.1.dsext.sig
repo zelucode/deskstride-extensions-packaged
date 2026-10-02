@@ -1,5 +1,5 @@
 {
   "algorithm": "ed25519",
-  "publicKey": "V+x9OMvNGwI5TCEuv7MXbRjLzoklDULx+VwYu98sLO8=",
-  "signature": "tpsEYxsFVfjK1tUUT7svVVbTvAAT1UL6Qy2ppOxQBD26LtWjAi/jPxSRjv7eM00BS5GXqH8DU7afmqzB8qkiAA=="
+  "publicKey": "fTd0CcgxxvNhXHB/I4mNS2XQ7102WP6P+NoSJ7eem0Q=",
+  "signature": "KKII4eX5hp+F3MVNRDMsMh2u1Pczi0qV6gNMdu+wbdSyIRz1FbdhtVxZ6nGeK/Z6xvay3Z2N1gtf4zw/75j/CQ=="
 }
