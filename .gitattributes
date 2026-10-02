@@ -1,0 +1,4 @@
+# Packages are hashed byte for byte. Never let git convert line endings (Windows checkouts would break every sha256).
+* -text
+*.dsext binary
+*.sig -text
