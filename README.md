@@ -7,7 +7,11 @@ never overwrite a published file: the registry pins each file's sha256.
 ```
 <extension-id>/<extension-id>-<version>.dsext       the package
 <extension-id>/<extension-id>-<version>.dsext.sig   detached Ed25519 signature
+<extension-id>/README.md                            the extension's README, shown on the marketplace page
 ```
+
+`README.md` is the one file that may change without a new version: it is display-only (the marketplace renders it with all HTML
+escaped) and is not covered by the registry's sha256. `tools/publish.py` in the source repo refreshes it on every run.
 
 Browse and install these from DeskStride (Settings → Extensions → Browse) or from the DeskStride Marketplace. The registry entries
 that point here live in the `extensions-registry` repo.
