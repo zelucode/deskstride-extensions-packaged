@@ -1,6 +1,6 @@
 # GraphQL Client
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 Send GraphQL queries and mutations to any endpoint and inspect a server's schema. Uses only the standard library (no pip packages).
 GraphQL errors, HTTP failures, non-JSON replies, unreachable hosts and timeouts each give a clear message.

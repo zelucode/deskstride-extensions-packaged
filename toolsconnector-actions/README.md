@@ -1,6 +1,6 @@
 # ToolsConnector Actions — example extension
 
-**Version:** 1.1.0
+**Version:** 1.1.1
 
 Adds a generic **Execute ToolsConnector Action** node covering [ToolsConnector](https://toolsconnector.github.io/)'s catalog of 77+ connectors and 1,578+ actions (Gmail, Slack, GitHub, Stripe, Notion, Google Workspace, 14 AWS services, and more), plus a **List ToolsConnector Connectors** node for discovery, and a **ToolsConnector Browser** sidebar page. Built for `integration-lab/BACKLOG.md` item 16.
 

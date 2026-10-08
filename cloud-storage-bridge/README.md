@@ -1,6 +1,6 @@
 # Cloud Storage Bridge Extension
 
-**Version:** 1.0.2
+**Version:** 1.0.3
 
 > **⚠ Requires the `oauth-handler` extension.** Install it first (`workspace/oauth-handler.dsext`)
 > and pipe `accessToken` from its *OAuth Get Token* node into any Cloud Storage Bridge node.

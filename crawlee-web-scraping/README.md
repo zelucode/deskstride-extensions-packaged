@@ -1,6 +1,6 @@
 # Crawlee Web Scraping
 
-**Version:** 1.0.1
+**Version:** 1.0.2
 
 A web scraping and crawling extension using the Crawlee library via a Node.js bridge. Provides HTTP crawling, data extraction with CSS selectors, and multi-page link following.
 

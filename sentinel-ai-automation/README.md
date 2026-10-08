@@ -1,6 +1,6 @@
 # Sentinel AI Automation
 
-**Version:** 1.0.2
+**Version:** 1.0.3
 
 An AI-powered browser automation extension using the Sentinel library via a Node.js bridge. Describe actions in plain English and let AI figure out selectors, clicks, and data extraction.
 

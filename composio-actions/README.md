@@ -1,6 +1,6 @@
 # Composio Actions — example extension
 
-**Version:** 1.0.1
+**Version:** 1.0.2
 
 Adds a generic **Execute Composio Action** node covering
 [Composio](https://composio.dev)'s catalog of 1000+ pre-authenticated SaaS

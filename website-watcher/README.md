@@ -1,6 +1,6 @@
 # Website Watcher — example extension
 
-**Version:** 1.1.0
+**Version:** 1.1.1
 
 Adds **Watch Website**, a node that fetches a URL (optionally scoped to a
 CSS selector) and reports whether its content changed since the last run.

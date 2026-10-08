@@ -1,6 +1,6 @@
 # Sentry Error Tracking Extension
 
-**Version:** 1.0.1
+**Version:** 1.0.2
 
 A Sentry integration for DeskStride that enables error tracking, monitoring, and debugging for workflows.
 

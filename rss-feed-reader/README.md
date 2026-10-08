@@ -1,6 +1,6 @@
 # RSS Feed Reader
 
-**Version:** 1.1.0
+**Version:** 1.1.1
 
 Polls RSS/Atom feeds and returns new items since the last run.
 

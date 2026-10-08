@@ -1,6 +1,6 @@
 # Media Download (yt-dlp) — example extension
 
-**Version:** 2.1.0
+**Version:** 2.1.1
 
 Adds two node types backed by yt-dlp's own package (bundled via
 `pipDependencies`): **Download Media (yt-dlp)** and **Get Media Info

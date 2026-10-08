@@ -1,6 +1,6 @@
 # OAuth 2.0 Handler Extension
 
-**Version:** 1.1.1
+**Version:** 1.1.2
 
 An OAuth 2.0 flow management extension for DeskStride that provides token acquisition, refresh, and authenticated request wrappers for cloud service integrations.
 

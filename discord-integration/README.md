@@ -1,6 +1,6 @@
 # Discord Integration Extension
 
-**Version:** 1.0.2
+**Version:** 1.0.3
 
 A Discord integration for DeskStride that enables sending messages, posting to channels, and uploading files via webhook or bot token.
 

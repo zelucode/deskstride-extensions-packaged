@@ -1,6 +1,6 @@
 # Argos Translate Extension
 
-**Version:** 1.0.4
+**Version:** 1.0.5
 
 Offline neural machine translation using [Argos Translate](https://github.com/argosopentech/argos-translate). Translate text between languages using locally installed models. All processing happens on-device — no network requests during translation.
 
