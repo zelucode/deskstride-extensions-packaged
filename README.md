@@ -25,8 +25,14 @@ All packages are signed with one Ed25519 release key:
 | Fingerprint | `7AC6:6249:04F1:1BA1` |
 | Public key (base64) | `fTd0CcgxxvNhXHB/I4mNS2XQ7102WP6P+NoSJ7eem0Q=` |
 
-The `.sig` file next to each package contains the same public key. DeskStride shows the fingerprint when you install and warns if a
-later update of the same extension is signed by a different key. DeskStride checks the signature automatically when you install. A standalone command-line verifier is not published yet.
+The `.sig` file next to each package contains the same public key. This key is built into DeskStride: **the app installs a package from
+the official registry only if it is signed by it**, and refuses an unsigned one. It also blocks an update of an installed extension that is
+signed by a different key. DeskStride checks the signature automatically when you install. A standalone command-line verifier is not published yet.
+
+Rules for this repo: every `.dsext` needs its `.dsext.sig` next to it, made with the release key (a package signed with any other key is
+refused by the app); files are added by `tools/publish.py` in the private source repo, never by hand, and never replaced or reused under the
+same version; a package's dependencies must be exact pins. A checkout lets you re-check the whole repo:
+`python tools/deskstride_ext_cli.py build-index <registry> --packages-root <this repo> --official` (run from the source repo).
 
 A signature shows the package came from the holder of this key and was not altered. It does not make the code safe: extensions run
 with the permissions they declare, so read what an extension asks for before installing it.
