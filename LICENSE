@@ -1,0 +1,37 @@
+DeskStride Extensions (Packaged) - Usage License
+
+Copyright (c) 2026 Zelucode. All rights reserved.
+
+This repository contains built and signed extension packages (.dsext files),
+their signatures and README files, published for use with the DeskStride
+application ("the Software"). Third-party extensions published here remain the
+work of their authors and are governed by any license they state in their own
+README or package; where none is stated, this license applies to the package as
+distributed here.
+
+Permission is granted, free of charge, to:
+
+  1. View and download the contents of this repository.
+  2. Install and use the packages with the Software, for personal or internal
+     business use.
+
+You may NOT, without prior written permission from Zelucode:
+
+  1. Use, load or run the packages in any application, service or product other
+     than the Software.
+  2. Redistribute, republish, mirror or resell the packages or substantial
+     portions of them, in original or modified form.
+  3. Modify, repackage or re-sign the packages, or present modified packages as
+     originating from Zelucode.
+  4. Operate a competing registry, marketplace or directory built from this
+     content.
+
+No trademark rights are granted. "DeskStride" and "Zelucode" are names of
+Zelucode.
+
+THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL ZELUCODE BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE CONTENTS.
+
+Contact: https://zelucode.com
